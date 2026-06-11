@@ -35,6 +35,7 @@ def get_db():
 
 # ── Endpoints ─────────────────────────────────────────────
 @app.get("/health")
+# Health check endpoint
 def health(db: Session = Depends(get_db)):
     """Health check — also verifies DB connection."""
     try:
