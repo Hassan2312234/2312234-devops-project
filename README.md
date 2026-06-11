@@ -1,8 +1,8 @@
-# BSCS-2022-001 — DevOps Final Project
+# 2312234 — DevOps Final Project
 
-> **Student:** BSCS-2022-001
+> **Student:** 2312234
 > **Course:** DevOps Fundamentals
-> **Live URL:** http://YOUR_EC2_IP:8000
+> **Live URL:** http://32.198.188.69:8000
 
 ---
 
